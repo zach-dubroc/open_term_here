@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "zach-dubroc.open-terminal-here",
+  "name": "Nautilus Open Terminal Here",
+  "version": "1.0.0",
+  "author": "zach-dubroc",
+  "license": "MIT",
+  "description": "Right-click 'Open Terminal Here' in Nautilus (Files), launching whatever you set with `omarchy default terminal`. Background and folder context menus via xdg-terminal-exec.",
+  "kinds": ["service"],
+  "entryPoints": {
+    "service": "Service.qml"
+  },
+  "tags": ["nautilus", "terminal", "context-menu", "files"]
+}
