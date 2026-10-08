@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "zach-dubroc.open-terminal-here",
-  "name": "Nautilus Open Terminal Here",
+  "name": "Open In Terminal",
   "version": "1.0.0",
   "author": "zach-dubroc",
   "license": "MIT",

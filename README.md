@@ -1,7 +1,7 @@
 
 ## Add
 ```bash
-omarchy plugin add https://github.com/zach-dubroc/open_terminal_here.git --enable
+omarchy plugin add https://github.com/zach-dubroc/open_term_here.git --enable
 ~/.config/omarchy/plugins/zach-dubroc.open-terminal-here/install.sh
 ```
 
